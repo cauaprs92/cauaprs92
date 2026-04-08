@@ -19,3 +19,14 @@ Me chamo Cauã Rodrigo, tenho 17 anos e sou natural de Manaus, Amazonas, morando
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60px">
 </div>
+
+<div align="center">
+  <img 
+    height="200" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=cauaprs92&show_icons=true&theme=dark&include_all_commits=true"
+  />
+  <img 
+    height="195" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauaprs92&layout=compact&theme=dark&include_all_commits=true"
+  />
+</div>

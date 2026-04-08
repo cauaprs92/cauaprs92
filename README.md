@@ -20,6 +20,8 @@ Me chamo Cauã Rodrigo, tenho 17 anos e sou natural de Manaus, Amazonas, morando
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60px">
 </div>
 
+<br>
+
 <div align="center">
   <img 
     height="200" 
